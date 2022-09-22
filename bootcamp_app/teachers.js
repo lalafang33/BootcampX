@@ -21,3 +21,4 @@ ORDER BY teacher;
     console.log(`${row.cohort}: ${row.teacher}`);
   })
 });
+
